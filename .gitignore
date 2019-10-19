@@ -1,0 +1,12 @@
+obj/
+FMRTE.v12.suo
+bin/
+h5eypgza.tmp_proj
+*.suo
+packages/
+*.orig
+*.psess
+*.vspx
+TestResults/
+.vs/
+obfuscator-tests/
